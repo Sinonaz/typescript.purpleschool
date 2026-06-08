@@ -1,0 +1,24 @@
+{
+	"name": "typescript.purpleschool",
+	"version": "1.0.0",
+	"description": "",
+	"homepage": "https://github.com/Sinonaz/typescript.purpleschool#readme",
+	"bugs": {
+		"url": "https://github.com/Sinonaz/typescript.purpleschool/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Sinonaz/typescript.purpleschool.git"
+	},
+	"license": "ISC",
+	"author": "Isaac Shir",
+	"type": "commonjs",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"devDependencies": {
+		"@types/node": "^25.9.2",
+		"typescript": "^6.0.3"
+	}
+}
